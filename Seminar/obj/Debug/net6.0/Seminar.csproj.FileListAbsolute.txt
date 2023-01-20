@@ -1,0 +1,15 @@
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\bin\Debug\net6.0\Seminar.exe
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\bin\Debug\net6.0\Seminar.deps.json
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\bin\Debug\net6.0\Seminar.runtimeconfig.json
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\bin\Debug\net6.0\Seminar.dll
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\bin\Debug\net6.0\Seminar.pdb
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.csproj.AssemblyReference.cache
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.AssemblyInfoInputs.cache
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.AssemblyInfo.cs
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.csproj.CoreCompileInputs.cache
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.dll
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\refint\Seminar.dll
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.pdb
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\Seminar.genruntimeconfig.cache
+D:\Личная папка\GeekBrains\CSharp\Seminary\CsharpSem3\Seminar\obj\Debug\net6.0\ref\Seminar.dll
