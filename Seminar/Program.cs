@@ -51,7 +51,7 @@ for (int x = 1; x <= n; x++)
 /*
 // Task 21
  // Math.Round - оркугление
- // Math.Sqrt - квадрат
+ // Math.Sqrt - Корень
  // Math.Pow - степень ВСЕ В 
 Console.Clear();
 Console.Write("Введите X1: ");
