@@ -47,3 +47,46 @@ for (int x = 1; x <= number1; x++)
     Console.Write($"{Math.Pow(x, 3)} ");
 }
 */
+
+
+// dop zadanie
+
+void PrintArray(int[] col) // Функция печати элементов массива
+{
+    int count = col.Length;
+    int position = 0;
+    while( position < count)
+    {
+        Console.Write($" {col[position]} ,");
+        position++;
+    }
+}
+
+Console.WriteLine("Введите число грядок N: ");
+    int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+int count = 0;
+while(count < n )
+{
+    Console.WriteLine("Введите данные массива: ");
+    array[count] = Convert.ToInt32(Console.ReadLine());
+    count++;
+}
+Console.Clear();
+PrintArray(array);
+Console.WriteLine();
+
+int count2 = 1;
+int max = array[1] + array[n - 1] + array[0];
+int x = 0;
+while(count2 < n-1 )
+{
+    x = array[count2 - 1] + array[count2] + array[count2 + 1];
+    if(x > max ) max = x;
+    count2++;
+}
+
+int max2 = array[0] + array[n - 2] + array [n - 1];
+if( max2 > max ) max = max2;
+
+Console.Write($"максимальное число ягод {max} ");
